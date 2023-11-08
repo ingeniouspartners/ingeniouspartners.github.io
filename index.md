@@ -18,11 +18,15 @@ CableTrack PRO is the premier tool to enable electricians to quickly and easily 
 
 <h3 style="text-align:center;">Aaren Orquia</h3>
 
->Through this project, I would like to gain more experience on team based projects. 
-> 
->All of the programming projects I've done so far have been solo projects, so I’m excited to see the process of creating a practical application as a team. I would like to improve my knowledge on meteor and react by learning through my group members or online.
->
->My background is from prior ICS classes at UH Manoa. I’d say my greatest skill is that I can spend long periods of time on something until I finish. It’s not really a skill, but I will spend as many hours needed to complete a project.
+<div style="background-color:#F4F7F9; border-left: 2px solid cornflowerblue; padding: 1px 10px;">
+
+<p>Through this project, I would like to gain more experience on team based projects.</p>
+
+<p>All of the programming projects I've done so far have been solo projects, so I’m excited to see the process of creating a practical application as a team. I would like to improve my knowledge on meteor and react by learning through my group members or online.</p>
+
+<p>My background is from prior ICS classes at UH Manoa. I’d say my greatest skill is that I can spend long periods of time on something until I finish. It’s not really a skill, but I will spend as many hours needed to complete a project.</p>
+
+</div>
 
 </div>
 
@@ -36,11 +40,15 @@ CableTrack PRO is the premier tool to enable electricians to quickly and easily 
 
 <h3 style="text-align:center;">Andrea Jans</h3>
 
->I would like to learn more about Meteor, React, Bootstrap, and SimpleSchema. I would like to practice my front-end development, especially CSS.
->
->I've been programming for 40 years, am artistic, and can weld. I'm really good at laying out objects.
->
->I work 40 hours a week, so I am free in the evenings and weekends. That is when I plan to work on the project.
+<div style="background-color:#F4F7F9; border-left: 2px solid cornflowerblue; padding: 1px 10px;">
+
+<p>I would like to learn more about Meteor, React, Bootstrap, and SimpleSchema. I would like to practice my front-end development, especially CSS.</p>
+
+<p>I've been programming for 40 years, am artistic, and can weld. I'm really good at laying out objects.</p>
+
+<p>I work 40 hours a week, so I am free in the evenings and weekends. That is when I plan to work on the project.</p>
+
+</div>
 
 </div>
 
@@ -54,11 +62,15 @@ CableTrack PRO is the premier tool to enable electricians to quickly and easily 
 
 <h3 style="text-align:center;">Matthew Yamamoto</h3>
 
->I'd like to work on my communication, asking the right questions and being able to explain my own ideas clearly.
->
->My background is basically 4 years of programming, but most of that experience doesn't apply here. What does apply though is that if I don't know something, I'm generally good at figuring it out. I'm also detail-oriented, so I can be a second pair of eyes if something's not working.
-> 
->My time constraints are fairly lax, I can work in the morning 3 times a week, or in the afternoon, but for the best results, I'm free in the evenings and weekends, and I plan to work at those times.
+<div style="background-color:#F4F7F9; border-left: 2px solid cornflowerblue; padding: 1px 10px;">
+
+<p>I'd like to work on my communication, asking the right questions and being able to explain my own ideas clearly.</p>
+
+<p>My background is basically 4 years of programming, but most of that experience doesn't apply here. What does apply though is that if I don't know something, I'm generally good at figuring it out. I'm also detail-oriented, so I can be a second pair of eyes if something's not working.</p>
+
+<p>My time constraints are fairly lax, I can work in the morning 3 times a week, or in the afternoon, but for the best results, I'm free in the evenings and weekends, and I plan to work at those times.</p>
+
+</div>
 
 </div>
 
@@ -72,11 +84,15 @@ CableTrack PRO is the premier tool to enable electricians to quickly and easily 
 
 <h3 style="text-align:center;">Mikhail Shkaralevich</h3>
 
->I am excited to work on the project in the team based environment. I would love to develop efficient communication skills.
->
->My background is mostly based on web development using Django framework and tools such as Figma for web-design. All of my previous projects were solo. j
->
->I am working 12-20 hours a week but the schedule is flexible. I try to adjust my schedule to the time that works for the most team members.
+<div style="background-color:#F4F7F9; border-left: 2px solid cornflowerblue; padding: 1px 10px;">
+
+<p>I am excited to work on the project in the team based environment. I would love to develop efficient communication skills.</p>
+
+<p>My background is mostly based on web development using Django framework and tools such as Figma for web-design. All of my previous projects were solo.</p>
+
+<p>I am working 12-20 hours a week but the schedule is flexible. I try to adjust my schedule to the time that works for the most team members.</p>
+
+</div>
 
 </div>
 
@@ -90,11 +106,15 @@ CableTrack PRO is the premier tool to enable electricians to quickly and easily 
 
 <h3 style="text-align:center;">Ursula Nichols</h3>
 
->I am excited to work on this project to improve my collaboration skills; I have only had one computer science group project before this
-> 
->My background is based on classes from the UH Mānoa BS computer science program
->
->I work 30-40 hours a week Tuesdays and Thursdays are ideal. I can take off mornings before class or afternoons on Monday/Wednesday/Friday to meet. If weekends are best, I can always take off work a little early and meet in the afternoon
+<div style="background-color:#F4F7F9; border-left: 2px solid cornflowerblue; padding: 1px 10px;">
+
+<p>I am excited to work on this project to improve my collaboration skills; I have only had one computer science group project before this.</p>
+
+<p>My background is based on classes from the UH Mānoa BS computer science program</p>
+
+<p>I work 30-40 hours a week Tuesdays and Thursdays are ideal. I can take off mornings before class or afternoons on Monday/Wednesday/Friday to meet. If weekends are best, I can always take off work a little early and meet in the afternoon</p>
+
+</div>
 
 </div>
 
