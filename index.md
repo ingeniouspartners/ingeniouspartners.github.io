@@ -1,4 +1,4 @@
-<img src="img/favicon-96x96.png" alt="Ingenious Partners Logo" width="96" height="96">
+<img src="img/logos/favicon-96x96.png" alt="Ingenious Partners Logo" width="96" height="96">
 
 ## Table of contents
 
@@ -12,7 +12,7 @@
     * [Cables](#cables)
   * [Entity Diagram](#entity-diagram)
   * [User interface](#user-interface)
-    * [Home](#home)
+    * [Landing Page](#landing-page)
     * [Sign Up](#sign-up)
     * [Sign In](#sign-in)
     * [Sign Out](#sign-out)
@@ -39,7 +39,7 @@
 
 <div>
 
-<img src="img/aaren.jpeg" alt="Aaren's photo" width="200" style="float:left; margin-top:40px; border-radius: 50%;border: 1px solid #000;">
+<img src="img/team/aaren.jpeg" alt="Aaren's photo" width="200" style="float:left; margin-top:40px; border-radius: 50%;border: 1px solid #000;">
 
 </div>
 
@@ -61,7 +61,7 @@
 
 <div>
 
-<img src="img/andrea.jpeg" alt="Andrea's photo" width="200" style="float:left; margin-top: 40px; border-radius: 50%;border: 1px solid #000;">
+<img src="img/team/andrea.jpeg" alt="Andrea's photo" width="200" style="float:left; margin-top: 40px; border-radius: 50%;border: 1px solid #000;">
 
 </div>
 
@@ -83,7 +83,7 @@
 
 <div>
 
-<img src="img/mathew.jpeg" alt="Mathew's photo" width="200" style="float:left; margin-top: 40px; border-radius: 50%;border: 1px solid #000;">
+<img src="img/team/mathew.jpeg" alt="Mathew's photo" width="200" style="float:left; margin-top: 40px; border-radius: 50%;border: 1px solid #000;">
 
 </div>
 
@@ -105,7 +105,7 @@
 
 <div>
 
-<img src="img/mikhail.jpeg" alt="Mikhail's photo" width="200" style="float:left; margin-top: 40px; border-radius: 50%;border: 1px solid #000;">
+<img src="img/team/mikhail.jpeg" alt="Mikhail's photo" width="200" style="float:left; margin-top: 40px; border-radius: 50%;border: 1px solid #000;">
 
 </div>
 
@@ -127,7 +127,7 @@
 
 <div>
 
-<img src="img/ursula.jpeg" alt="Ursula's photo" width="200" style="float:left; margin-top: 40px; border-radius: 50%;border: 1px solid #000;">
+<img src="img/team/ursula.jpeg" alt="Ursula's photo" width="200" style="float:left; margin-top: 40px; border-radius: 50%;border: 1px solid #000;">
 
 </div>
 
@@ -151,7 +151,7 @@
 
 ## CableTrackPro
 
-<img src="img/cableProLogo.png" alt="project's logo">
+<img src="img/logos/cableProLogo.png" alt="project's logo">
 
 #### [Link to the project's repo](https://github.com/ingeniouspartners/cabletrack.pro)
 
@@ -179,9 +179,11 @@ CableTrack PRO allows you to create cables and add them to projects. You can the
 
 ## User interface
 
-### Home
+### Landing Page
 
 The welcome screen that allows the visitor to see what the application is about and give them the opportunity to sign-up or sign-in.
+
+<img src="img/mockups/landing-page.png" alt="landing page mockup")
 
 ### Sign Up
 
