@@ -10,6 +10,7 @@
     * [Company Branding](#company-branding)
     * [Projects](#projects)
     * [Cables](#cables)
+  * [Entity Diagram](#entity-diagram)
   * [User interface](#user-interface)
     * [Home](#home)
     * [Sign Up](#sign-up)
@@ -171,6 +172,10 @@ CableTrack PRO allows you to create projects and add cables to them. You can the
 #### Cables
 
 CableTrack PRO allows you to create cables and add them to projects. You can then track the progress of each cable.
+
+## Entity Diagram
+
+<img src="img/er-diagram.png" alt="Entity Diagram">
 
 ## User interface
 
