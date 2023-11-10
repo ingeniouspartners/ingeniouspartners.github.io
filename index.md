@@ -1,10 +1,95 @@
 <img src="img/favicon-96x96.png" alt="Ingenious Partners Logo" width="96" height="96">
 
-## [CableTrack PRO](https://ingeniouspartners.github.io/cabletrack.pro/)
+## Table of contents
+
+* [CableTrackPro](#cabletrackpro)
+  * [Purpose](#purpose)
+  * [Features](#features)
+    * [Company Branding](#company-branding)
+    * [Projects](#projects)
+    * [Cables](#cables)
+  * [User interface](#user-interface)
+    * [Home](#home)
+    * [Sign Up](#sign-up)
+    * [Sign In](#sign-in)
+    * [Sign Out](#sign-out)
+    * [Edit Profile](#edit-profile)
+    * [Add/Edit Company](#addedit-company)
+    * [Add/Edit Project](#addedit-project)
+    * [Add/Edit Cable](#addedit-cable)
+* [Team](#team)
+
+[//]: # (* [Deployment]&#40;#deployment&#41;)
+[//]: # (* [User Guide]&#40;#user-guide&#41;)
+[//]: # (* [Community Feedback]&#40;#community-feedback&#41;)
+[//]: # (* [Developer Guide]&#40;#developer-guide&#41;)
+[//]: # (* [Development History]&#40;#development-history&#41;)
+[//]: # (* [Continuous Integration]&#40;#continuous-integration&#41;)
+[//]: # (* [Walkthrough videos]&#40;#walkthrough-videos&#41;)
+[//]: # (* [Example enhancements]&#40;#example-enhancements&#41;)
+
+## CableTrackPro
+
+<img src="img/cableProLogo.png" alt="project's logo">
 
 CableTrack PRO is the premier tool to enable electricians to quickly and easily create cable schedules for their projects. It allows the tracking of the cable meta-data, pull-ins, terminations, and tests.
 
+## Purpose
+
+CableTrack PRO is the premier tool to enable electricians to quickly and easily create cable schedules for their projects. It allows the tracking of the cable meta-data, pull-ins, terminations, and tests.
+
+## Features
+
+#### Company Branding
+
+CableTrack PRO allows you to brand the application with your company logo. This allows the customer to present a professional image to their clients.
+
+#### Projects
+
+CableTrack PRO allows you to create projects and add cables to them. You can then report progress by project.
+
+#### Cables
+
+CableTrack PRO allows you to create cables and add them to projects. You can then track the progress of each cable.
+
+## User interface
+
+### Home
+
+The welcome screen that allows the visitor to see what the application is about and give them the opportunity to sign-up or sign-in.
+
+### Sign Up
+
+Ask the user for basic information, such as their email address (usernane) and desired password, which must be entered twice.
+
+### Sign In
+
+Ask the user for their email address (username) and password.
+
+### Sign Out
+
+Signs the user out of the application and redirects them to the Home page.
+
+### Edit Profile
+
+Allows the user to update their profile information, such as First and Last Name, Photo URL.
+
+### Add/Edit Company
+
+Add or Edit the Company. This would include fields for Company Name, Logo URL, Address, City, State, ZIP, Country, and associated Users. If the Company ID is not provided, a new instance is created with a template model, otherwise the model is filled from the Company collection using <code>findOne()</code>.
+
+### Add/Edit Project
+
+Add or Edit the Project. This would include fields for Project Code, Name, associated Users. If the Project ID is not provided, a new instance is created with a template model, otherwise the model is filled filled out from the Project collection using <code>findOne()</code>.
+
+### Add/Edit Cable
+
+Add or Edit the Cable. This would include fields for Cable Code, Name, Type, Phase Code, etc. If the Cable ID is not provided, a new instance is created with a template model, otherwise the model is fille out from the Cable collection using <code>findOne()</code>.
+
+
 ## Team
+
+## [Team Contract](https://docs.google.com/document/d/18tcC9dBUBwXgLGMExS6Sb9rpvzeySdBsoFDaM1eFMkc/edit?usp=sharing)
 
 <div style="display: grid; grid-template-columns: 1fr 3fr; grid-gap: 40px;">
 
@@ -119,5 +204,3 @@ CableTrack PRO is the premier tool to enable electricians to quickly and easily 
 </div>
 
 </div>
-
-## [Team Contract](https://docs.google.com/document/d/18tcC9dBUBwXgLGMExS6Sb9rpvzeySdBsoFDaM1eFMkc/edit?usp=sharing)
