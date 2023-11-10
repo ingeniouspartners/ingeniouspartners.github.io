@@ -32,8 +32,6 @@
 
 <img src="img/cableProLogo.png" alt="project's logo">
 
-CableTrack PRO is the premier tool to enable electricians to quickly and easily create cable schedules for their projects. It allows the tracking of the cable meta-data, pull-ins, terminations, and tests.
-
 ## Purpose
 
 CableTrack PRO is the premier tool to enable electricians to quickly and easily create cable schedules for their projects. It allows the tracking of the cable meta-data, pull-ins, terminations, and tests.
