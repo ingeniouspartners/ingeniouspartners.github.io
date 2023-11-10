@@ -2,7 +2,7 @@ title: Ingenious Partners
 description: A group of ingenious people building applications.
 google_analytics:
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
 
 gems:
   - jekyll-mentions
