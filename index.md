@@ -183,7 +183,7 @@ CableTrack PRO allows you to create cables and add them to projects. You can the
 
 The welcome screen that allows the visitor to see what the application is about and give them the opportunity to sign-up or sign-in.
 
-<img src="img/mockups/landing-page.png" alt="landing page mockup")
+<img src="img/mockups/landing-page.png" alt="landing page mockup">
 
 ### Sign Up
 
