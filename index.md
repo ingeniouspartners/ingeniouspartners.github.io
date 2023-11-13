@@ -33,7 +33,7 @@
 
 ## Team
 
-> #### [Contract](https://docs.google.com/document/d/18tcC9dBUBwXgLGMExS6Sb9rpvzeySdBsoFDaM1eFMkc/edit?usp=sharing)
+#### [Contract](https://docs.google.com/document/d/18tcC9dBUBwXgLGMExS6Sb9rpvzeySdBsoFDaM1eFMkc/edit?usp=sharing)
 
 <div style="display: grid; grid-template-columns: 1fr 3fr; grid-gap: 40px;">
 
