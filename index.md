@@ -191,6 +191,12 @@ The home page of a user. It provides information about user's profile, company a
 
 <img src="img/mockups/home-signed-in.png" alt="landing page mockup">
 
+### Project view
+
+The view of a project. It provides information about a project and a table of associated cables with an opportunity to add/edit cables.
+
+<img src="img/mockups/project-view.png" alt="landing page mockup">
+
 ### Sign Up
 
 Ask the user for basic information, such as their email address (usernane) and desired password, which must be entered twice.
