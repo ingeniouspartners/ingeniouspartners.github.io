@@ -6,6 +6,9 @@
   * [Contract](#contract)
 * [CableTrackPro](#cabletrackpro)
   * [Purpose](#purpose)
+  * [Milestones](#milestones)
+    * [M1](#m1)
+    * [M2](#m2)
   * [Features](#features)
     * [Company Branding](#company-branding)
     * [Projects](#projects)
@@ -158,6 +161,18 @@
 ## Purpose
 
 CableTrack PRO is the premier tool to enable electricians to quickly and easily create cable schedules for their projects. It allows the tracking of the cable meta-data, pull-ins, terminations, and tests.
+
+## Milestones
+
+CableTrack PRO development is managed via Milestone projects and the issues they contain.
+
+### [M1](https://github.com/orgs/ingeniouspartners/projects/1)
+
+In Milestone 1, we concentrated on laying out foundational functionality, primarly the components that will be used to create the pages.
+
+### [M2](https://github.com/orgs/ingeniouspartners/projects/2)
+
+In Milestone 2, we will be putting together the pages utilizing the components created during M1. This should lead to a second round of page development were we refactor code for reusability.
 
 ## Features
 
