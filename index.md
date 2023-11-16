@@ -1,4 +1,4 @@
-<img src="img/logos/favicon-96x96.png" alt="Ingenious Partners Logo" width="96" height="96">
+[<img src="img/logos/favicon-96x96.png" alt="Ingenious Partners Logo" width="96" height="96"> Ingenious Partners on GitHub](https://github.com/ingeniouspartners)
 
 ## Table of contents
 
@@ -9,6 +9,7 @@
   * [Milestones](#milestones)
     * [M1](#m1)
     * [M2](#m2)
+  * [Deployment](#deployment)
   * [Features](#features)
     * [Company Branding](#company-branding)
     * [Projects](#projects)
@@ -25,7 +26,6 @@
     * [Add/Edit Cable](#addedit-cable)
 
 
-[//]: # (* [Deployment]&#40;#deployment&#41;)
 [//]: # (* [User Guide]&#40;#user-guide&#41;)
 [//]: # (* [Community Feedback]&#40;#community-feedback&#41;)
 [//]: # (* [Developer Guide]&#40;#developer-guide&#41;)
@@ -173,6 +173,10 @@ In Milestone 1, we concentrated on laying out foundational functionality, primar
 ### [M2](https://github.com/orgs/ingeniouspartners/projects/2)
 
 In Milestone 2, we will be putting together the pages utilizing the components created during M1. This should lead to a second round of page development were we refactor code for reusability.
+
+## Deployment
+
+[DigitalOcean](https://app.cabletrack.pro)
 
 ## Features
 
