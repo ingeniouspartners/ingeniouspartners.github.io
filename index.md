@@ -202,56 +202,86 @@ CableTrack PRO allows you to create cables and add them to projects. You can the
 
 The welcome screen that allows the visitor to see what the application is about and give them the opportunity to sign-up or sign-in.
 
-<img src="img/mockups/landing-page.png" alt="landing page mockup">
+<img src="img/website/landing-page.png" alt="landing page mockup">
 
-### Home Signed In
+[//]: # (### Home Signed In)
 
-The home page of a user. It provides information about user's profile, company and associated projects.
+[//]: # ()
+[//]: # (The home page of a user. It provides information about user's profile, company and associated projects.)
 
-<img src="img/mockups/home-signed-in.png" alt="landing page mockup">
-
-### Project view
-
-The view of a project. It provides information about a project and a table of associated cables with an opportunity to add/edit cables.
-
-<img src="img/mockups/project-view.png" alt="landing page mockup">
+[//]: # ()
+[//]: # (<img src="img/mockups/home-signed-in.png" alt="landing page mockup">)
 
 ### Sign Up
 
-Ask the user for basic information, such as their email address (usernane) and desired password, which must be entered twice.
+Ask the user for basic information, such as their email address (usernane) and desired password.
 
-<img src="img/mockups/sign-up.png" alt="sign-up page">
+<img src="img/website/sign-up.png" alt="sign-up page">
 
 ### Sign In
 
 Ask the user for their email address (username) and password.
 
-<img src="img/mockups/sign-in.png" alt="sign-in page">
+<img src="img/website/sign-in.png" alt="sign-in page">
 
 ### Sign Out
 
 Signs the user out of the application and redirects them to the Home page.
 
-### Edit Profile
+[//]: # (### Edit Profile)
 
-Allows the user to update their profile information, such as First and Last Name, Photo URL.
+[//]: # ()
+[//]: # (Allows the user to update their profile information, such as First and Last Name, Photo URL.)
 
-<img src="img/mockups/edit-profile.png" alt="edit profile page">
+[//]: # ()
+[//]: # (<img src="img/mockups/edit-profile.png" alt="edit profile page">)
 
 ### Add/Edit Company
 
 Add or Edit the Company. This would include fields for Company Name, Logo URL, Address, City, State, ZIP, Country, and associated Users. If the Company ID is not provided, a new instance is created with a template model, otherwise the model is filled from the Company collection using <code>findOne()</code>.
 
-<img src="img/mockups/add-edit-company.png" alt="add/edit company">
+<img src="img/website/add-company.png" alt="add/edit company">
+
+<img src="img/website/edit-company.png" alt="add/edit company">
+
+### List Company
+
+Lists companies associated with the user. It provides links to add or edit a company.
+
+<img src="img/website/list-company.png" alt="list company page">
+
+### View Company
+
+View of a specific company with a detailed description about it.
+
+<img src="img/website/view-company.png" alt="view company">
+
+### List users associated with a company
+
+<img src="img/website/list-company-users.png" alt="view company">
+
+### List projects
+
+A table of projects associated with a company
+
+<img src="img/website/company-project-list.png" alt="list of projects">
+
+### Project view
+
+The view of a project. It provides information about a project in a form of a table.
+
+<img src="img/website/project-view.png" alt="landing page mockup">
 
 ### Add/Edit Project
 
 Add or Edit the Project. This would include fields for Project Code, Name, associated Users. If the Project ID is not provided, a new instance is created with a template model, otherwise the model is filled filled out from the Project collection using <code>findOne()</code>.
 
-<img src="img/mockups/add-edit-project.png" alt="add/edit project">
+<img src="img/website/add-edit-project.png" alt="add/edit project">
 
-### Add/Edit Cable
+[//]: # (### Add/Edit Cable)
 
-Add or Edit the Cable. This would include fields for Cable Code, Name, Type, Phase Code, etc. If the Cable ID is not provided, a new instance is created with a template model, otherwise the model is fille out from the Cable collection using <code>findOne()</code>.
+[//]: # ()
+[//]: # (Add or Edit the Cable. This would include fields for Cable Code, Name, Type, Phase Code, etc. If the Cable ID is not provided, a new instance is created with a template model, otherwise the model is fille out from the Cable collection using <code>findOne&#40;&#41;</code>.)
 
-<img src="img/mockups/add-edit-cable.png" alt="add/edit cable">
+[//]: # ()
+[//]: # (<img src="img/mockups/add-edit-cable.png" alt="add/edit cable">)
