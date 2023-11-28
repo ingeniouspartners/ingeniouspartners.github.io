@@ -9,6 +9,7 @@
   * [Milestones](#milestones)
     * [M1](#m1)
     * [M2](#m2)
+    * [M3](#m3)
   * [Deployment](#deployment)
   * [Features](#features)
     * [Company Branding](#company-branding)
@@ -174,6 +175,10 @@ In Milestone 1, we concentrated on laying out foundational functionality, primar
 ### [M2](https://github.com/orgs/ingeniouspartners/projects/2)
 
 In Milestone 2, we will be putting together the pages utilizing the components created during M1. This should lead to a second round of page development were we refactor code for reusability.
+
+### [M3](https://github.com/orgs/ingeniouspartners/projects/3)
+
+In Milestone 3, we will be instrumenting the code with tests and adding documentation.
 
 ## Deployment
 
