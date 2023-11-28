@@ -23,7 +23,8 @@
     * [Edit Profile](#edit-profile)
     * [Add/Edit Company](#addedit-company)
     * [Add/Edit Project](#addedit-project)
-    * [Add/Edit Cable](#addedit-cable)
+
+[//]: # (    * [Add/Edit Cable]&#40;#addedit-cable&#41;)
 
 
 [//]: # (* [User Guide]&#40;#user-guide&#41;)
