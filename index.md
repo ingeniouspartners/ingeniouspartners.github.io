@@ -156,6 +156,8 @@
 
 ## CableTrackPro
 
+![ci-badge](https://github.com/ingeniouspartners/cabletrack.pro/workflows/ci-cabletrack-pro/badge.svg)
+
 <img src="img/logos/cableProLogo.png" alt="project's logo">
 
 [Link to the project's repo](https://github.com/ingeniouspartners/cabletrack.pro)
