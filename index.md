@@ -293,7 +293,7 @@ Shows the users associated with a company.
 
 Lists projects associated with the company. It provides links to add or edit a project.
 
-<img src="img/website/company-project-list.png" alt="list projects page">
+<img src="img/website/list-project.png" alt="list projects page">
 
 ### Add Project
 
