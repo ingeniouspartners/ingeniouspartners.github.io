@@ -243,7 +243,7 @@ Ask the user for their email address (username) and password.
 
 Signs the user out of the application and redirects them to the Home page.
 
-<img src="img/website/sign-out.png" alt="sign-out page">
+<img src="img/website/landing-page.png" alt="sign-out page">
 
 [//]: # (### Edit Profile)
 
