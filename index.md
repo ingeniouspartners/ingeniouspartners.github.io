@@ -22,8 +22,22 @@
     * [Sign In](#sign-in)
     * [Sign Out](#sign-out)
     * [Edit Profile](#edit-profile)
-    * [Add/Edit Company](#addedit-company)
-    * [Add/Edit Project](#addedit-project)
+    * [List Company](#list-company)
+    * [Add Company](#add-company)
+    * [View Company](#view-company)
+    * [Edit Company](#edit-company)
+    * [List Project](#list-project)
+    * [Add Project](#add-project)
+    * [View Project](#view-project)
+    * [Edit Project](#edit-project)
+    * [List Cable](#list-cable)
+    * [Add Cable](#add-cable)
+    * [View Cable](#view-cable)
+    * [Edit Cable](#edit-cable)
+    * [List PullIn](#list-pullin)
+    * [Add PullIn](#add-pullin)
+    * [View PullIn](#view-pullin)
+    * [Edit PullIn](#edit-pullin)
 
 [//]: # (    * [Add/Edit Cable]&#40;#addedit-cable&#41;)
 
@@ -202,7 +216,7 @@ CableTrack PRO allows you to create cables and add them to projects. You can the
 
 The welcome screen that allows the visitor to see what the application is about and give them the opportunity to sign-up or sign-in.
 
-<img src="img/website/landing-page.png" alt="landing page mockup">
+<img src="img/website/landing-page.png" alt="landing page">
 
 [//]: # (### Home Signed In)
 
@@ -214,7 +228,7 @@ The welcome screen that allows the visitor to see what the application is about 
 
 ### Sign Up
 
-Ask the user for basic information, such as their email address (usernane) and desired password.
+Ask the user for basic information, such as their email address (username) and desired password.
 
 <img src="img/website/sign-up.png" alt="sign-up page">
 
@@ -228,6 +242,8 @@ Ask the user for their email address (username) and password.
 
 Signs the user out of the application and redirects them to the Home page.
 
+<img src="img/website/sign-out.png" alt="sign-out page">
+
 [//]: # (### Edit Profile)
 
 [//]: # ()
@@ -236,13 +252,11 @@ Signs the user out of the application and redirects them to the Home page.
 [//]: # ()
 [//]: # (<img src="img/mockups/edit-profile.png" alt="edit profile page">)
 
-### Add/Edit Company
+### Edit Profile
 
-Add or Edit the Company. This would include fields for Company Name, Logo URL, Address, City, State, ZIP, Country, and associated Users. If the Company ID is not provided, a new instance is created with a template model, otherwise the model is filled from the Company collection using <code>findOne()</code>.
+Edit the Profile. It allows the user to update their profile information, such as First and Last Name, Photo URL, etc.
 
-<img src="img/website/add-company.png" alt="add/edit company">
-
-<img src="img/website/edit-company.png" alt="add/edit company">
+<img src="img/website/edit-profile.png" alt="edit profile page">
 
 ### List Company
 
@@ -250,11 +264,23 @@ Lists companies associated with the user. It provides links to add or edit a com
 
 <img src="img/website/list-company.png" alt="list company page">
 
+### Add Company
+
+Add the Company. This would include fields for Company Name, Logo URL, Address, City, State, ZIP, Country, and associated Users. If the Company ID is not provided, a new instance is created with a template model, otherwise the model is filled from the Company collection using <code>findOne()</code>.
+
+<img src="img/website/add-company.png" alt="add company">
+
 ### View Company
 
 View of a specific company with a detailed description about it.
 
 <img src="img/website/view-company.png" alt="view company">
+
+### Edit Company
+
+Edit the Company. This would include fields for Company Name, Logo URL, Address, City, State, ZIP, Country, and associated Users.
+
+<img src="img/website/edit-company.png" alt="edit company">
 
 ### List users associated with a company
 
@@ -264,19 +290,27 @@ View of a specific company with a detailed description about it.
 
 A table of projects associated with a company
 
-<img src="img/website/company-project-list.png" alt="list of projects">
+<img src="img/website/company-project-list.png" alt="list projects page">
 
-### Project view
+### Add Project
+
+Add the Project. This would include fields for Project Code, Name, associated Users. If the Project ID is not provided, a new instance is created with a template model, otherwise the model is filled filled out from the Project collection using <code>findOne()</code>.
+
+<img src="img/website/add-project.png" alt="add project">
+
+### View Project
 
 The view of a project. It provides information about a project in a form of a table.
 
-<img src="img/website/project-view.png" alt="landing page mockup">
+<img src="img/website/project-view.png" alt="landing page">
 
-### Add/Edit Project
+### Edit Project
 
-Add or Edit the Project. This would include fields for Project Code, Name, associated Users. If the Project ID is not provided, a new instance is created with a template model, otherwise the model is filled filled out from the Project collection using <code>findOne()</code>.
+Edit the Project. This would include fields for Project Code, Name, associated Users.
 
-<img src="img/website/add-edit-project.png" alt="add/edit project">
+<img src="img/website/edit-project.png" alt="edit project">
+
+
 
 [//]: # (### Add/Edit Cable)
 
