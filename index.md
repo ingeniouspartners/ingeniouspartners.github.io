@@ -26,6 +26,7 @@
     * [Add Company](#add-company)
     * [View Company](#view-company)
     * [Edit Company](#edit-company)
+    * [List Users Associated With a Company](#list-users-associated-with-a-company)
     * [List Project](#list-project)
     * [Add Project](#add-project)
     * [View Project](#view-project)
@@ -254,7 +255,7 @@ Signs the user out of the application and redirects them to the Home page.
 
 ### Edit Profile
 
-Edit the Profile. It allows the user to update their profile information, such as First and Last Name, Photo URL, etc.
+Allows the user to update their profile information, such as First and Last Name, Photo URL, etc.
 
 <img src="img/website/edit-profile.png" alt="edit profile page">
 
@@ -266,7 +267,7 @@ Lists companies associated with the user. It provides links to add or edit a com
 
 ### Add Company
 
-Add the Company. This would include fields for Company Name, Logo URL, Address, City, State, ZIP, Country, and associated Users. If the Company ID is not provided, a new instance is created with a template model, otherwise the model is filled from the Company collection using <code>findOne()</code>.
+Add the Company. This would include fields for Company Name, Logo URL, Address, City, State, ZIP, Country, and associated Users. A new instance is created with a template model.
 
 <img src="img/website/add-company.png" alt="add company">
 
@@ -278,44 +279,92 @@ View of a specific company with a detailed description about it.
 
 ### Edit Company
 
-Edit the Company. This would include fields for Company Name, Logo URL, Address, City, State, ZIP, Country, and associated Users.
+Edit the Company. This would include fields for Company Name, Logo URL, Address, City, State, ZIP, Country, and associated Users. The model is filled from the Company collection using <code>findOne()</code>.
 
 <img src="img/website/edit-company.png" alt="edit company">
 
-### List users associated with a company
+### List Users Associated With a Company
+
+Shows the users associated with a company.
 
 <img src="img/website/list-company-users.png" alt="view company">
 
 ### List projects
 
-A table of projects associated with a company
+Lists projects associated with the company. It provides links to add or edit a project.
 
 <img src="img/website/company-project-list.png" alt="list projects page">
 
 ### Add Project
 
-Add the Project. This would include fields for Project Code, Name, associated Users. If the Project ID is not provided, a new instance is created with a template model, otherwise the model is filled filled out from the Project collection using <code>findOne()</code>.
+Add the Project. This would include fields for Project Code, Name, associated Users. A new instance is created with a template model.
 
 <img src="img/website/add-project.png" alt="add project">
 
 ### View Project
 
-The view of a project. It provides information about a project in a form of a table.
+View of a specific project with a detailed description about it.
 
-<img src="img/website/project-view.png" alt="landing page">
+<img src="img/website/view-project.png" alt="landing page">
 
 ### Edit Project
 
-Edit the Project. This would include fields for Project Code, Name, associated Users.
+Edit the Project. This would include fields for Project Code, Name, associated Users. The model is filled out from the Project collection using <code>findOne()</code>.
 
 <img src="img/website/edit-project.png" alt="edit project">
 
+### List Cable
 
+Lists cables associated with the project. It provides links to add or edit a cable.
+
+<img src="img/website/list-cable.png" alt="list cables page">
+
+### Add Cable
+
+Add the Cable. This would include fields for Name, Description, Cost Code, etc. A new instance is created with a template model.
+
+<img src="img/website/add-cable.png" alt="add cable">
+
+### View Cable
+
+View of a specific cable with a detailed description about it.
+
+<img src="img/website/view-cable.png" alt="view cable">
+
+### Edit Cable
+
+Edit the Cable. This would include fields for Name, Description, Cost Code, etc. The model is filled out from the Cable collection using <code>findOne()</code>.
+
+<img src="img/website/edit-cable.png" alt="edit cable">
+
+### List PullIn
+
+Lists pull-ins associated with the cable. It provides links to add or edit a pull-in.
+
+<img src="img/website/list-pullin.png" alt="list pull-ins page">
+
+### Add PullIn
+
+Add the PullIn. This would include fields for Person Installed, Date installed, Length Installed, etc. A new instance is created with a template model.
+
+<img src="img/website/add-pullin.png" alt="add pull-in">
+
+### View PullIn
+
+View of a specific pull-in with a detailed description about it.
+
+<img src="img/website/view-pullin.png" alt="view pull-in">
+
+### Edit PullIn
+
+Edit the PullIn. This would include fields for Person Installed, Date installed, Length Installed, etc. The model is filled out from the PullIn collection using <code>findOne()</code>.
+
+<img src="img/website/edit-pullin.png" alt="edit pull-in">
 
 [//]: # (### Add/Edit Cable)
 
 [//]: # ()
-[//]: # (Add or Edit the Cable. This would include fields for Cable Code, Name, Type, Phase Code, etc. If the Cable ID is not provided, a new instance is created with a template model, otherwise the model is fille out from the Cable collection using <code>findOne&#40;&#41;</code>.)
+[//]: # (Add or Edit the Cable. This would include fields for Cable Code, Name, Type, Phase Code, etc. If the Cable ID is not provided, a new instance is created with a template model, otherwise the model is filled out from the Cable collection using <code>findOne&#40;&#41;</code>.)
 
 [//]: # ()
 [//]: # (<img src="img/mockups/add-edit-cable.png" alt="add/edit cable">)
