@@ -22,20 +22,20 @@
     * [Sign In](#sign-in)
     * [Sign Out](#sign-out)
     * [Edit Profile](#edit-profile)
-    * [List Company](#list-company)
+    * [List Companies](#list-companies)
     * [Add Company](#add-company)
     * [View Company](#view-company)
     * [Edit Company](#edit-company)
-    * [List Users Associated With a Company](#list-users-associated-with-a-company)
-    * [List Project](#list-project)
+    * [List Users In Company](#list-users-in-company)
+    * [List Projects](#list-projects)
     * [Add Project](#add-project)
     * [View Project](#view-project)
     * [Edit Project](#edit-project)
-    * [List Cable](#list-cable)
+    * [List Cables](#list-cables)
     * [Add Cable](#add-cable)
     * [View Cable](#view-cable)
     * [Edit Cable](#edit-cable)
-    * [List PullIn](#list-pullin)
+    * [List PullIns](#list-pullins)
     * [Add PullIn](#add-pullin)
     * [View PullIn](#view-pullin)
     * [Edit PullIn](#edit-pullin)
@@ -259,7 +259,7 @@ Allows the user to update their profile information, such as First and Last Name
 
 <img src="img/website/edit-profile.png" alt="edit profile page">
 
-### List Company
+### List Companies
 
 Lists companies associated with the user. It provides links to add or edit a company.
 
@@ -283,13 +283,13 @@ Edit the Company. This would include fields for Company Name, Logo URL, Address,
 
 <img src="img/website/edit-company.png" alt="edit company">
 
-### List Users Associated With a Company
+### List Users In Company
 
 Shows the users associated with a company.
 
 <img src="img/website/list-company-users.png" alt="view company">
 
-### List projects
+### List Projects
 
 Lists projects associated with the company. It provides links to add or edit a project.
 
@@ -313,7 +313,7 @@ Edit the Project. This would include fields for Project Code, Name, associated U
 
 <img src="img/website/edit-project.png" alt="edit project">
 
-### List Cable
+### List Cables
 
 Lists cables associated with the project. It provides links to add or edit a cable.
 
@@ -337,7 +337,7 @@ Edit the Cable. This would include fields for Name, Description, Cost Code, etc.
 
 <img src="img/website/edit-cable.png" alt="edit cable">
 
-### List PullIn
+### List PullIns
 
 Lists pull-ins associated with the cable. It provides links to add or edit a pull-in.
 
